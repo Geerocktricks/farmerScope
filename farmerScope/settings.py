@@ -57,6 +57,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'analysis',
+    'users',
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
