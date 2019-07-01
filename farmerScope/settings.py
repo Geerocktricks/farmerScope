@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'analysis',
+    'auth',
 ]
 
 MIDDLEWARE = [
